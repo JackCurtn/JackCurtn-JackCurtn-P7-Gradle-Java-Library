@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.StockLibTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-07-07T09:42:00" hostname="JACK_LEGION5" time="0.017">
+  <properties/>
+  <testcase name="someLibraryMethodReturnsTrue()" classname="org.example.StockLibTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
